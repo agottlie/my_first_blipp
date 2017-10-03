@@ -1,0 +1,12 @@
+    {
+        "version": "1.0.0",
+        "description": "Developers Portal Demo",
+        "main": "main.js",
+        "blipp" : {
+          "title": "Earth and Geolocation",
+          "shortTitle": "Globe"
+        },
+        "dependencies": {
+          "blippar": "1.4.10"
+        }
+    }
